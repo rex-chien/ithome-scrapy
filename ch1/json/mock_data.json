@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "first_name": "Berk",
+    "last_name": "Bullus",
+    "gender": "Male",
+    "country": "Russia"
+  },
+  {
+    "id": 2,
+    "first_name": "Gnni",
+    "last_name": "Backson",
+    "gender": "Female",
+    "country": "Russia"
+  },
+  {
+    "id": 3,
+    "first_name": "Lorrayne",
+    "last_name": "Hardwell",
+    "gender": "Female",
+    "country": "Peru"
+  },
+  {
+    "id": 4,
+    "first_name": "Cammy",
+    "last_name": "Noke",
+    "gender": "Male",
+    "country": "Malta"
+  },
+  {
+    "id": 5,
+    "first_name": "Claudian",
+    "last_name": "Dreinan",
+    "gender": "Male",
+    "country": "China"
+  }
+]
