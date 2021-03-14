@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fake-useragent = "*"
+pymongo = "*"
+scrapy-selenium = "*"
+twisted = {path = "./Twisted-20.3.0-cp39-cp39-win_amd64.whl"}
+scrapy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
